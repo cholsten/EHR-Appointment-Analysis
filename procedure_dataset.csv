@@ -1,0 +1,151 @@
+Patient_ID,Procedure_Code,Procedure_Description,Procedure_Date
+P0039,99386,Preventive exam for new adult patient,8/18/2024
+P0037,99213,Established patient office visit (20-29 minutes),8/5/2023
+P0062,99386,Preventive exam for new adult patient,4/14/2024
+P0040,81003,Automated urinalysis without microscopy,12/28/2023
+P0058,93015,Cardiovascular stress testing,4/15/2023
+P0049,93015,Cardiovascular stress testing,5/5/2024
+P0065,81003,Automated urinalysis without microscopy,2/10/2025
+P0093,99386,Preventive exam for new adult patient,9/29/2023
+P0068,93015,Cardiovascular stress testing,9/16/2023
+P0088,99386,Preventive exam for new adult patient,10/8/2023
+P0038,99212,Established patient office visit (10-19 minutes),10/24/2024
+P0009,93015,Cardiovascular stress testing,3/29/2024
+P0049,81003,Automated urinalysis without microscopy,2/24/2025
+P0067,99213,Established patient office visit (20-29 minutes),7/30/2023
+P0051,99386,Preventive exam for new adult patient,10/31/2023
+P0054,99212,Established patient office visit (10-19 minutes),3/10/2024
+P0042,93015,Cardiovascular stress testing,12/29/2024
+P0080,99397,Preventive exam for patient over 65,10/10/2023
+P0009,81003,Automated urinalysis without microscopy,6/8/2023
+P0024,99386,Preventive exam for new adult patient,5/26/2024
+P0003,99213,Established patient office visit (20-29 minutes),8/13/2024
+P0009,99397,Preventive exam for patient over 65,3/22/2023
+P0093,99213,Established patient office visit (20-29 minutes),3/25/2023
+P0032,90653,"Influenza virus vaccine, inactivated",6/16/2023
+P0010,81003,Automated urinalysis without microscopy,11/6/2024
+P0045,93015,Cardiovascular stress testing,10/10/2024
+P0003,99213,Established patient office visit (20-29 minutes),7/20/2023
+P0099,99386,Preventive exam for new adult patient,3/23/2024
+P0099,90653,"Influenza virus vaccine, inactivated",8/14/2024
+P0089,99212,Established patient office visit (10-19 minutes),12/31/2023
+P0087,99212,Established patient office visit (10-19 minutes),2/28/2024
+P0086,99212,Established patient office visit (10-19 minutes),7/28/2024
+P0046,99397,Preventive exam for patient over 65,2/23/2025
+P0088,99213,Established patient office visit (20-29 minutes),6/6/2024
+P0057,99386,Preventive exam for new adult patient,4/8/2023
+P0080,99397,Preventive exam for patient over 65,7/13/2024
+P0042,99213,Established patient office visit (20-29 minutes),9/16/2023
+P0008,99212,Established patient office visit (10-19 minutes),11/26/2024
+P0011,93015,Cardiovascular stress testing,11/29/2023
+P0035,99213,Established patient office visit (20-29 minutes),2/9/2025
+P0097,81003,Automated urinalysis without microscopy,10/29/2023
+P0078,99386,Preventive exam for new adult patient,11/6/2023
+P0059,99212,Established patient office visit (10-19 minutes),6/14/2024
+P0089,93015,Cardiovascular stress testing,3/27/2024
+P0043,99213,Established patient office visit (20-29 minutes),1/22/2024
+P0090,99213,Established patient office visit (20-29 minutes),6/15/2023
+P0055,99386,Preventive exam for new adult patient,3/4/2024
+P0096,99213,Established patient office visit (20-29 minutes),11/28/2024
+P0016,99397,Preventive exam for patient over 65,1/23/2025
+P0075,90653,"Influenza virus vaccine, inactivated",2/8/2025
+P0030,99213,Established patient office visit (20-29 minutes),10/9/2024
+P0033,99397,Preventive exam for patient over 65,12/12/2024
+P0100,90653,"Influenza virus vaccine, inactivated",11/22/2023
+P0044,99386,Preventive exam for new adult patient,8/4/2024
+P0058,81003,Automated urinalysis without microscopy,10/20/2023
+P0082,99386,Preventive exam for new adult patient,12/24/2023
+P0096,90653,"Influenza virus vaccine, inactivated",4/20/2023
+P0057,99213,Established patient office visit (20-29 minutes),10/31/2024
+P0094,90653,"Influenza virus vaccine, inactivated",9/10/2024
+P0092,81003,Automated urinalysis without microscopy,4/10/2024
+P0094,99386,Preventive exam for new adult patient,9/20/2024
+P0025,81003,Automated urinalysis without microscopy,12/11/2024
+P0094,99212,Established patient office visit (10-19 minutes),7/16/2023
+P0036,99386,Preventive exam for new adult patient,11/29/2024
+P0092,99212,Established patient office visit (10-19 minutes),5/29/2024
+P0007,99212,Established patient office visit (10-19 minutes),5/1/2023
+P0085,90653,"Influenza virus vaccine, inactivated",6/10/2024
+P0052,90653,"Influenza virus vaccine, inactivated",12/11/2023
+P0093,99213,Established patient office visit (20-29 minutes),6/18/2023
+P0005,81003,Automated urinalysis without microscopy,2/1/2025
+P0092,93015,Cardiovascular stress testing,2/10/2025
+P0074,99386,Preventive exam for new adult patient,10/6/2023
+P0009,81003,Automated urinalysis without microscopy,4/22/2024
+P0061,99212,Established patient office visit (10-19 minutes),2/11/2025
+P0057,99212,Established patient office visit (10-19 minutes),6/1/2023
+P0092,99213,Established patient office visit (20-29 minutes),5/18/2023
+P0078,99397,Preventive exam for patient over 65,10/28/2024
+P0010,93015,Cardiovascular stress testing,2/10/2024
+P0035,93015,Cardiovascular stress testing,2/28/2024
+P0060,99212,Established patient office visit (10-19 minutes),8/14/2023
+P0010,99212,Established patient office visit (10-19 minutes),11/1/2024
+P0055,81003,Automated urinalysis without microscopy,8/21/2023
+P0002,99213,Established patient office visit (20-29 minutes),7/2/2023
+P0082,99397,Preventive exam for patient over 65,1/26/2025
+P0021,99212,Established patient office visit (10-19 minutes),6/9/2023
+P0039,99212,Established patient office visit (10-19 minutes),9/23/2024
+P0077,99386,Preventive exam for new adult patient,6/17/2023
+P0088,99386,Preventive exam for new adult patient,1/18/2025
+P0011,90653,"Influenza virus vaccine, inactivated",1/11/2025
+P0034,90653,"Influenza virus vaccine, inactivated",12/7/2024
+P0063,93015,Cardiovascular stress testing,1/25/2025
+P0010,93015,Cardiovascular stress testing,9/11/2023
+P0085,99386,Preventive exam for new adult patient,7/24/2024
+P0067,90653,"Influenza virus vaccine, inactivated",5/14/2024
+P0083,99386,Preventive exam for new adult patient,1/25/2024
+P0034,93015,Cardiovascular stress testing,5/20/2024
+P0090,99397,Preventive exam for patient over 65,9/14/2024
+P0097,81003,Automated urinalysis without microscopy,7/28/2023
+P0071,99386,Preventive exam for new adult patient,7/18/2024
+P0067,90653,"Influenza virus vaccine, inactivated",5/19/2024
+P0077,99397,Preventive exam for patient over 65,9/26/2023
+P0059,93015,Cardiovascular stress testing,6/15/2023
+P0064,90653,"Influenza virus vaccine, inactivated",2/2/2024
+P0007,99212,Established patient office visit (10-19 minutes),11/14/2023
+P0078,99212,Established patient office visit (10-19 minutes),8/3/2023
+P0088,93015,Cardiovascular stress testing,1/4/2025
+P0097,81003,Automated urinalysis without microscopy,12/6/2023
+P0075,90653,"Influenza virus vaccine, inactivated",4/28/2023
+P0017,99397,Preventive exam for patient over 65,6/6/2023
+P0029,99397,Preventive exam for patient over 65,12/13/2024
+P0075,99212,Established patient office visit (10-19 minutes),8/16/2024
+P0062,93015,Cardiovascular stress testing,7/29/2024
+P0085,90653,"Influenza virus vaccine, inactivated",1/3/2025
+P0089,99386,Preventive exam for new adult patient,6/9/2023
+P0076,99397,Preventive exam for patient over 65,6/9/2023
+P0003,99212,Established patient office visit (10-19 minutes),6/24/2024
+P0081,81003,Automated urinalysis without microscopy,11/24/2023
+P0013,81003,Automated urinalysis without microscopy,11/10/2024
+P0089,81003,Automated urinalysis without microscopy,5/14/2024
+P0036,99213,Established patient office visit (20-29 minutes),8/19/2024
+P0071,99386,Preventive exam for new adult patient,6/9/2023
+P0020,90653,"Influenza virus vaccine, inactivated",7/2/2023
+P0090,99397,Preventive exam for patient over 65,10/27/2024
+P0041,90653,"Influenza virus vaccine, inactivated",8/27/2023
+P0041,90653,"Influenza virus vaccine, inactivated",6/6/2024
+P0063,81003,Automated urinalysis without microscopy,12/4/2024
+P0003,99386,Preventive exam for new adult patient,9/16/2024
+P0016,93015,Cardiovascular stress testing,5/24/2024
+P0050,99386,Preventive exam for new adult patient,12/20/2023
+P0097,99397,Preventive exam for patient over 65,6/14/2024
+P0041,81003,Automated urinalysis without microscopy,9/1/2023
+P0010,99397,Preventive exam for patient over 65,11/26/2023
+P0052,90653,"Influenza virus vaccine, inactivated",10/8/2024
+P0068,99397,Preventive exam for patient over 65,1/5/2024
+P0061,90653,"Influenza virus vaccine, inactivated",1/1/2025
+P0061,81003,Automated urinalysis without microscopy,1/4/2025
+P0024,93015,Cardiovascular stress testing,1/18/2025
+P0085,99212,Established patient office visit (10-19 minutes),7/21/2023
+P0009,99212,Established patient office visit (10-19 minutes),11/20/2024
+P0042,99212,Established patient office visit (10-19 minutes),10/25/2024
+P0039,99213,Established patient office visit (20-29 minutes),9/3/2024
+P0084,99397,Preventive exam for patient over 65,4/6/2023
+P0025,99212,Established patient office visit (10-19 minutes),12/21/2023
+P0024,81003,Automated urinalysis without microscopy,10/17/2024
+P0034,99213,Established patient office visit (20-29 minutes),12/7/2023
+P0099,93015,Cardiovascular stress testing,7/23/2023
+P0099,99212,Established patient office visit (10-19 minutes),9/21/2023
+P0056,90653,"Influenza virus vaccine, inactivated",4/14/2024
+P0095,99397,Preventive exam for patient over 65,8/22/2023
+P0062,99212,Established patient office visit (10-19 minutes),7/13/2023

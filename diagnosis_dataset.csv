@@ -1,0 +1,151 @@
+Patient_ID,Dx_Code,Dx_Description,Dx_Date
+P0005,K21.9,Gastroesophageal reflux disease without esophagitis,2023-05-06
+P0024,J45.0,"Asthma, unspecified",2024-04-29
+P0063,K21.9,Gastroesophageal reflux disease without esophagitis,2024-03-22
+P0062,J45.0,"Asthma, unspecified",2024-10-27
+P0016,K21.9,Gastroesophageal reflux disease without esophagitis,2025-02-03
+P0025,M47.896,Lumbar spondylosis,2024-09-16
+P0054,I10,Essential (primary) hypertension,2023-12-18
+P0091,I10,Essential (primary) hypertension,2023-03-29
+P0044,I10,Essential (primary) hypertension,2024-01-06
+P0018,K21.9,Gastroesophageal reflux disease without esophagitis,2023-03-30
+P0073,M47.896,Lumbar spondylosis,2024-05-02
+P0074,G31.,Mild cognitive impairment,2024-03-27
+P0012,E78.2,Mixed hyperlipidemia,2024-06-20
+P0082,G31.,Mild cognitive impairment,2024-03-24
+P0054,E11.65,Type 2 diabetes mellitus with hyperglycemia,2025-02-04
+P0063,K21.9,Gastroesophageal reflux disease without esophagitis,2023-11-05
+P0083,M15.0,Osteoarthritis,2025-02-18
+P0010,I10,Essential (primary) hypertension,2024-02-06
+P0016,G31.,Mild cognitive impairment,2023-04-08
+P0035,G31.,Mild cognitive impairment,2023-03-27
+P0014,G31.,Mild cognitive impairment,2024-02-05
+P0017,M47.896,Lumbar spondylosis,2025-02-18
+P0092,E78.2,Mixed hyperlipidemia,2024-02-13
+P0099,I10,Essential (primary) hypertension,2023-05-04
+P0038,E11.65,Type 2 diabetes mellitus with hyperglycemia,2023-03-22
+P0055,M15.0,Osteoarthritis,2025-01-25
+P0020,I10,Essential (primary) hypertension,2023-04-02
+P0051,E11.65,Type 2 diabetes mellitus with hyperglycemia,2024-11-02
+P0015,K21.9,Gastroesophageal reflux disease without esophagitis,2023-10-12
+P0011,M47.896,Lumbar spondylosis,2023-03-22
+P0001,M47.896,Lumbar spondylosis,2023-10-30
+P0072,M15.0,Osteoarthritis,2024-12-14
+P0092,M15.0,Osteoarthritis,2024-08-28
+P0021,E11.65,Type 2 diabetes mellitus with hyperglycemia,2024-06-29
+P0087,E11.65,Type 2 diabetes mellitus with hyperglycemia,2024-11-08
+P0046,G31.,Mild cognitive impairment,2025-03-02
+P0012,M47.896,Lumbar spondylosis,2024-08-21
+P0042,J45.0,"Asthma, unspecified",2023-07-15
+P0001,K21.9,Gastroesophageal reflux disease without esophagitis,2024-11-09
+P0047,K21.9,Gastroesophageal reflux disease without esophagitis,2024-01-07
+P0083,M47.896,Lumbar spondylosis,2024-03-03
+P0076,E11.65,Type 2 diabetes mellitus with hyperglycemia,2025-01-26
+P0002,M47.896,Lumbar spondylosis,2023-07-30
+P0056,K21.9,Gastroesophageal reflux disease without esophagitis,2024-07-19
+P0004,M15.0,Osteoarthritis,2025-01-16
+P0091,I10,Essential (primary) hypertension,2023-11-02
+P0037,I10,Essential (primary) hypertension,2023-12-31
+P0005,E78.2,Mixed hyperlipidemia,2023-10-04
+P0033,J45.0,"Asthma, unspecified",2025-02-18
+P0091,M15.0,Osteoarthritis,2023-11-30
+P0033,I10,Essential (primary) hypertension,2023-08-25
+P0060,K21.9,Gastroesophageal reflux disease without esophagitis,2023-10-07
+P0099,E78.2,Mixed hyperlipidemia,2023-10-19
+P0071,M15.0,Osteoarthritis,2024-09-17
+P0005,E78.2,Mixed hyperlipidemia,2023-12-26
+P0009,E11.65,Type 2 diabetes mellitus with hyperglycemia,2023-11-16
+P0008,M47.896,Lumbar spondylosis,2024-06-22
+P0036,M15.0,Osteoarthritis,2025-01-24
+P0073,J45.0,"Asthma, unspecified",2023-09-23
+P0009,K21.9,Gastroesophageal reflux disease without esophagitis,2023-08-17
+P0004,M15.0,Osteoarthritis,2023-08-22
+P0016,E78.2,Mixed hyperlipidemia,2024-09-24
+P0029,E11.65,Type 2 diabetes mellitus with hyperglycemia,2023-07-12
+P0056,M47.896,Lumbar spondylosis,2024-01-12
+P0071,M15.0,Osteoarthritis,2023-04-09
+P0022,M15.0,Osteoarthritis,2024-08-23
+P0093,M15.0,Osteoarthritis,2023-07-24
+P0055,J45.0,"Asthma, unspecified",2023-12-30
+P0089,G31.,Mild cognitive impairment,2024-03-22
+P0045,M15.0,Osteoarthritis,2023-03-12
+P0003,K21.9,Gastroesophageal reflux disease without esophagitis,2023-04-29
+P0030,G31.,Mild cognitive impairment,2024-12-09
+P0066,J45.0,"Asthma, unspecified",2023-10-18
+P0092,G31.,Mild cognitive impairment,2024-04-29
+P0072,J45.0,"Asthma, unspecified",2023-12-15
+P0089,E11.65,Type 2 diabetes mellitus with hyperglycemia,2024-08-03
+P0096,K21.9,Gastroesophageal reflux disease without esophagitis,2024-08-30
+P0014,M47.896,Lumbar spondylosis,2023-09-17
+P0052,E78.2,Mixed hyperlipidemia,2024-01-03
+P0034,J45.0,"Asthma, unspecified",2024-08-21
+P0043,J45.0,"Asthma, unspecified",2024-05-06
+P0013,M15.0,Osteoarthritis,2024-04-11
+P0088,E11.65,Type 2 diabetes mellitus with hyperglycemia,2024-04-23
+P0017,E78.2,Mixed hyperlipidemia,2024-07-08
+P0049,G31.,Mild cognitive impairment,2025-02-10
+P0036,M47.896,Lumbar spondylosis,2024-08-25
+P0077,E11.65,Type 2 diabetes mellitus with hyperglycemia,2024-10-09
+P0009,I10,Essential (primary) hypertension,2024-07-10
+P0052,I10,Essential (primary) hypertension,2023-06-30
+P0032,J45.0,"Asthma, unspecified",2024-03-29
+P0099,I10,Essential (primary) hypertension,2024-12-16
+P0027,M15.0,Osteoarthritis,2023-10-31
+P0095,M15.0,Osteoarthritis,2023-10-08
+P0039,M15.0,Osteoarthritis,2024-04-26
+P0085,G31.,Mild cognitive impairment,2024-02-27
+P0094,G31.,Mild cognitive impairment,2024-08-03
+P0076,E11.65,Type 2 diabetes mellitus with hyperglycemia,2024-04-25
+P0047,M47.896,Lumbar spondylosis,2024-06-15
+P0037,J45.0,"Asthma, unspecified",2024-08-09
+P0017,G31.,Mild cognitive impairment,2023-06-07
+P0045,G31.,Mild cognitive impairment,2024-11-12
+P0083,J45.0,"Asthma, unspecified",2023-05-16
+P0051,K21.9,Gastroesophageal reflux disease without esophagitis,2023-08-19
+P0090,E11.65,Type 2 diabetes mellitus with hyperglycemia,2024-11-08
+P0090,M47.896,Lumbar spondylosis,2025-01-21
+P0053,K21.9,Gastroesophageal reflux disease without esophagitis,2023-11-18
+P0035,E78.2,Mixed hyperlipidemia,2023-04-17
+P0075,K21.9,Gastroesophageal reflux disease without esophagitis,2023-05-06
+P0087,M15.0,Osteoarthritis,2023-08-26
+P0026,K21.9,Gastroesophageal reflux disease without esophagitis,2023-06-26
+P0001,K21.9,Gastroesophageal reflux disease without esophagitis,2024-04-21
+P0035,E11.65,Type 2 diabetes mellitus with hyperglycemia,2023-07-27
+P0030,M47.896,Lumbar spondylosis,2024-05-20
+P0014,E11.65,Type 2 diabetes mellitus with hyperglycemia,2024-09-07
+P0014,G31.,Mild cognitive impairment,2024-11-30
+P0041,E11.65,Type 2 diabetes mellitus with hyperglycemia,2024-02-19
+P0043,M15.0,Osteoarthritis,2024-04-26
+P0005,J45.0,"Asthma, unspecified",2023-05-30
+P0012,E11.65,Type 2 diabetes mellitus with hyperglycemia,2025-01-27
+P0068,J45.0,"Asthma, unspecified",2024-04-12
+P0087,E11.65,Type 2 diabetes mellitus with hyperglycemia,2023-06-26
+P0045,E78.2,Mixed hyperlipidemia,2023-08-15
+P0068,I10,Essential (primary) hypertension,2024-04-28
+P0032,G31.,Mild cognitive impairment,2023-09-18
+P0097,J45.0,"Asthma, unspecified",2023-05-27
+P0087,G31.,Mild cognitive impairment,2024-06-09
+P0037,E11.65,Type 2 diabetes mellitus with hyperglycemia,2023-10-21
+P0006,M47.896,Lumbar spondylosis,2024-08-07
+P0083,G31.,Mild cognitive impairment,2024-03-16
+P0066,M15.0,Osteoarthritis,2024-01-27
+P0027,E11.65,Type 2 diabetes mellitus with hyperglycemia,2023-08-04
+P0024,E11.65,Type 2 diabetes mellitus with hyperglycemia,2024-07-26
+P0065,M47.896,Lumbar spondylosis,2023-05-13
+P0028,M47.896,Lumbar spondylosis,2024-04-04
+P0020,E78.2,Mixed hyperlipidemia,2024-05-12
+P0054,M15.0,Osteoarthritis,2024-11-13
+P0066,M15.0,Osteoarthritis,2023-07-31
+P0022,G31.,Mild cognitive impairment,2024-10-10
+P0035,M47.896,Lumbar spondylosis,2023-11-25
+P0090,E78.2,Mixed hyperlipidemia,2024-05-28
+P0053,K21.9,Gastroesophageal reflux disease without esophagitis,2025-02-02
+P0040,I10,Essential (primary) hypertension,2023-08-05
+P0078,M15.0,Osteoarthritis,2024-06-09
+P0093,G31.,Mild cognitive impairment,2023-12-23
+P0092,G31.,Mild cognitive impairment,2024-10-25
+P0061,G31.,Mild cognitive impairment,2023-11-15
+P0030,G31.,Mild cognitive impairment,2023-05-01
+P0004,M47.896,Lumbar spondylosis,2024-12-09
+P0074,E11.65,Type 2 diabetes mellitus with hyperglycemia,2024-09-09
+P0029,G31.,Mild cognitive impairment,2025-01-12

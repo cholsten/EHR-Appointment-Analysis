@@ -1,0 +1,151 @@
+Patient_ID,Appointment_Date,Appointment_Time,Location,Appointment_Type,Appointment_Status
+P0032,2024-10-15,13:52,Telehealth,Sick Visit,Cancelled
+P0051,2024-08-06,13:42,Clinic A,Follow Up,No-Show
+P0052,2024-07-19,17:59,Clinic C,Follow Up,Checked-In
+P0077,2024-05-23,22:57,Clinic A,New Patient,Cancelled
+P0081,2024-11-20,16:10,Clinic B,Sick Visit,Checked-In
+P0100,2024-12-26,08:39,Telehealth,Sick Visit,No-Show
+P0033,2024-05-07,11:27,Telehealth,New Patient,Checked-In
+P0019,2024-08-09,15:30,Clinic A,Sick Visit,Cancelled
+P0083,2024-08-24,06:36,Clinic A,Follow Up,No-Show
+P0014,2024-10-08,16:26,Clinic B,Sick Visit,Checked-In
+P0026,2024-11-17,09:51,Telehealth,New Patient,Checked-In
+P0077,2024-09-13,17:18,Clinic A,Sick Visit,Cancelled
+P0002,2024-04-12,21:06,Telehealth,New Patient,Cancelled
+P0010,2024-06-25,10:02,Clinic A,New Patient,Cancelled
+P0042,2024-03-15,16:42,Clinic B,New Patient,Cancelled
+P0090,2024-07-30,14:32,Clinic C,Follow Up,Cancelled
+P0044,2024-07-16,09:03,Clinic C,Follow Up,No-Show
+P0020,2024-11-27,00:07,Clinic C,Follow Up,Cancelled
+P0064,2024-09-04,10:30,Clinic A,New Patient,No-Show
+P0097,2024-04-19,23:25,Clinic C,Sick Visit,Checked-In
+P0005,2024-12-13,17:23,Clinic A,Follow Up,Cancelled
+P0063,2024-07-25,12:54,Clinic A,Sick Visit,Checked-In
+P0063,2024-12-31,05:26,Clinic B,New Patient,Checked-In
+P0007,2024-10-06,08:01,Clinic A,Follow Up,No-Show
+P0045,2025-02-11,00:35,Clinic A,New Patient,Checked-In
+P0028,2024-07-10,05:00,Clinic B,New Patient,Cancelled
+P0034,2024-04-25,02:13,Clinic B,Follow Up,Cancelled
+P0054,2025-01-27,16:03,Clinic B,Follow Up,No-Show
+P0005,2024-09-29,06:43,Clinic C,New Patient,Cancelled
+P0033,2024-10-30,17:23,Clinic C,Sick Visit,Checked-In
+P0085,2024-08-31,07:12,Clinic C,Follow Up,Cancelled
+P0002,2024-07-11,12:53,Clinic B,Sick Visit,Cancelled
+P0063,2024-11-28,14:45,Telehealth,Sick Visit,No-Show
+P0045,2024-10-04,08:04,Clinic C,Follow Up,Checked-In
+P0063,2024-06-16,01:20,Clinic A,Sick Visit,Cancelled
+P0086,2024-03-28,16:16,Clinic A,Sick Visit,Cancelled
+P0060,2024-05-30,08:11,Clinic C,Sick Visit,Cancelled
+P0076,2024-03-26,19:15,Clinic B,Follow Up,No-Show
+P0030,2025-03-05,02:25,Telehealth,Follow Up,No-Show
+P0079,2025-02-22,09:36,Clinic B,New Patient,Cancelled
+P0083,2025-01-03,13:43,Clinic B,New Patient,No-Show
+P0054,2024-09-23,08:40,Telehealth,Follow Up,No-Show
+P0004,2024-08-26,13:01,Clinic A,New Patient,Cancelled
+P0095,2024-11-29,15:47,Clinic B,Sick Visit,Checked-In
+P0053,2024-05-02,01:03,Clinic B,New Patient,Checked-In
+P0003,2024-04-17,17:46,Clinic C,Follow Up,Checked-In
+P0064,2024-11-10,10:21,Clinic B,Follow Up,No-Show
+P0078,2024-07-29,01:22,Clinic C,Follow Up,Checked-In
+P0091,2024-04-17,07:01,Clinic B,Follow Up,Cancelled
+P0065,2024-06-15,17:42,Telehealth,New Patient,Checked-In
+P0086,2024-04-22,05:49,Telehealth,Follow Up,Checked-In
+P0029,2024-09-09,06:33,Clinic B,New Patient,Cancelled
+P0044,2025-01-16,10:45,Clinic B,Sick Visit,No-Show
+P0008,2025-02-16,18:37,Clinic C,New Patient,Cancelled
+P0060,2024-06-22,16:10,Telehealth,Sick Visit,No-Show
+P0057,2024-09-10,11:18,Clinic B,New Patient,No-Show
+P0085,2024-03-13,03:35,Clinic A,Sick Visit,Cancelled
+P0091,2024-07-12,05:10,Telehealth,Sick Visit,No-Show
+P0041,2024-03-24,20:35,Clinic C,New Patient,Checked-In
+P0099,2024-06-29,11:54,Telehealth,Sick Visit,Checked-In
+P0035,2025-01-17,13:52,Clinic B,New Patient,No-Show
+P0075,2024-10-30,12:36,Clinic B,Sick Visit,No-Show
+P0049,2024-07-01,23:53,Clinic C,Follow Up,No-Show
+P0041,2024-10-12,21:29,Clinic C,New Patient,No-Show
+P0048,2024-10-26,21:13,Clinic B,New Patient,Checked-In
+P0035,2024-09-21,16:10,Telehealth,Sick Visit,Checked-In
+P0003,2024-04-19,19:22,Clinic A,New Patient,No-Show
+P0029,2024-03-26,10:17,Clinic C,Follow Up,No-Show
+P0057,2025-01-08,12:59,Clinic C,Sick Visit,No-Show
+P0057,2024-06-21,04:37,Clinic C,Sick Visit,Checked-In
+P0068,2024-12-26,03:21,Clinic B,New Patient,No-Show
+P0020,2024-12-06,09:12,Clinic B,Follow Up,No-Show
+P0028,2024-08-10,11:17,Clinic C,Follow Up,No-Show
+P0081,2025-03-04,11:20,Telehealth,Follow Up,No-Show
+P0058,2024-11-22,17:01,Clinic A,Follow Up,No-Show
+P0083,2024-04-26,14:46,Clinic B,Sick Visit,No-Show
+P0012,2024-10-16,01:36,Clinic A,Sick Visit,Cancelled
+P0025,2024-04-03,11:34,Clinic A,Follow Up,No-Show
+P0047,2024-08-09,23:05,Clinic B,Sick Visit,Checked-In
+P0088,2024-05-23,20:00,Clinic B,Follow Up,Cancelled
+P0009,2024-08-18,02:22,Telehealth,New Patient,Cancelled
+P0084,2024-05-12,01:00,Clinic B,Follow Up,No-Show
+P0046,2024-04-02,12:05,Telehealth,Sick Visit,Cancelled
+P0053,2024-09-29,04:11,Clinic A,New Patient,No-Show
+P0095,2024-09-30,08:02,Clinic C,New Patient,Cancelled
+P0035,2024-10-13,04:15,Clinic A,Follow Up,Cancelled
+P0055,2024-03-10,07:50,Clinic A,Sick Visit,Cancelled
+P0087,2024-04-22,05:24,Clinic C,Follow Up,No-Show
+P0087,2024-12-28,17:05,Clinic B,Follow Up,No-Show
+P0055,2024-04-30,15:50,Clinic A,Follow Up,Cancelled
+P0076,2025-01-01,13:32,Clinic C,New Patient,Checked-In
+P0009,2024-12-26,14:06,Clinic B,New Patient,No-Show
+P0009,2024-06-28,21:19,Clinic B,Follow Up,No-Show
+P0050,2024-08-30,23:00,Clinic A,New Patient,Checked-In
+P0095,2024-04-05,04:36,Clinic A,Sick Visit,No-Show
+P0034,2024-09-25,18:26,Clinic A,Sick Visit,Checked-In
+P0081,2024-05-23,22:40,Telehealth,New Patient,Cancelled
+P0058,2025-02-07,03:23,Clinic B,New Patient,No-Show
+P0032,2025-02-19,01:06,Clinic C,New Patient,Checked-In
+P0093,2024-05-14,01:46,Clinic A,Sick Visit,No-Show
+P0038,2025-02-04,15:16,Clinic B,Follow Up,Checked-In
+P0033,2024-06-18,10:59,Clinic C,Follow Up,Checked-In
+P0053,2024-12-24,14:10,Clinic C,Follow Up,Cancelled
+P0007,2025-01-05,15:44,Telehealth,Follow Up,Checked-In
+P0042,2024-09-05,03:26,Telehealth,New Patient,Cancelled
+P0094,2024-04-03,03:54,Telehealth,Sick Visit,Cancelled
+P0020,2024-10-18,18:21,Telehealth,Follow Up,No-Show
+P0100,2024-07-02,07:15,Clinic A,Follow Up,Cancelled
+P0004,2024-08-04,06:27,Clinic B,Follow Up,Cancelled
+P0021,2025-02-16,07:31,Clinic B,New Patient,Cancelled
+P0098,2024-08-09,16:32,Clinic B,Sick Visit,Cancelled
+P0011,2024-05-10,23:32,Clinic B,Follow Up,Cancelled
+P0084,2024-12-30,01:34,Clinic C,New Patient,Checked-In
+P0031,2024-04-09,03:49,Clinic B,New Patient,No-Show
+P0061,2024-06-22,12:50,Clinic A,New Patient,No-Show
+P0068,2025-03-05,03:56,Clinic C,Follow Up,No-Show
+P0032,2024-08-19,05:29,Clinic A,Sick Visit,Checked-In
+P0022,2024-03-31,11:32,Clinic B,Sick Visit,Checked-In
+P0007,2024-06-21,13:13,Clinic C,New Patient,Checked-In
+P0081,2025-02-05,16:17,Clinic C,Follow Up,Checked-In
+P0070,2024-10-21,22:25,Clinic A,Follow Up,No-Show
+P0060,2024-07-09,15:50,Telehealth,Sick Visit,No-Show
+P0016,2024-08-20,04:07,Clinic A,Sick Visit,Checked-In
+P0005,2024-12-13,11:34,Clinic A,Follow Up,Checked-In
+P0087,2024-03-11,18:23,Clinic B,Sick Visit,Checked-In
+P0063,2024-11-26,04:28,Clinic C,New Patient,Cancelled
+P0052,2024-04-03,02:35,Telehealth,New Patient,Checked-In
+P0030,2024-08-18,23:57,Clinic C,Sick Visit,Cancelled
+P0096,2024-07-31,21:39,Clinic C,Sick Visit,Cancelled
+P0043,2024-06-08,04:04,Clinic B,New Patient,Cancelled
+P0016,2024-03-15,01:33,Clinic B,Follow Up,No-Show
+P0074,2024-12-10,23:00,Telehealth,Follow Up,Checked-In
+P0065,2024-05-23,16:32,Clinic B,New Patient,Cancelled
+P0019,2024-08-09,23:02,Telehealth,Sick Visit,Checked-In
+P0078,2024-07-19,20:41,Clinic A,New Patient,Cancelled
+P0074,2024-05-30,04:48,Clinic B,Follow Up,No-Show
+P0018,2024-08-13,01:01,Clinic A,Sick Visit,No-Show
+P0088,2025-01-09,18:06,Telehealth,New Patient,Cancelled
+P0074,2024-06-27,10:47,Clinic A,Sick Visit,No-Show
+P0096,2024-08-25,17:04,Telehealth,Follow Up,Checked-In
+P0045,2024-06-26,18:26,Clinic A,Sick Visit,Cancelled
+P0084,2024-03-28,23:03,Clinic B,Sick Visit,Cancelled
+P0082,2024-12-27,10:26,Clinic C,Follow Up,Cancelled
+P0011,2024-09-08,17:49,Telehealth,Follow Up,Checked-In
+P0053,2025-02-07,18:24,Clinic A,Sick Visit,Checked-In
+P0062,2024-10-16,06:33,Clinic B,Follow Up,Cancelled
+P0084,2024-10-25,02:27,Telehealth,Follow Up,Cancelled
+P0084,2024-03-27,23:09,Clinic C,Sick Visit,Checked-In
+P0002,2025-01-10,07:37,Telehealth,New Patient,Checked-In
+P0096,2024-12-31,17:51,Clinic A,Sick Visit,Cancelled
