@@ -3,6 +3,12 @@
 
 The manager of a multi-site ambulatory physician practice seeks to address a high rate of no-show and canceled appointments, and requests a dashboard to analyze appointment trends and guide next steps.
 
+## Steps
+
+- Generated a mock dataset using Python in Google Colab
+- Integrated tables using MySQL Workbench (this could be completed using the modeling function in Power BI, but MySQL was used for demonstration purposes)
+- Created data visualizations using Power BI
+
 ## Dashboard
 
 ![Re-sized EHR Dashboard Patient Demographics](https://github.com/user-attachments/assets/256c9587-dd27-4c9d-9b73-f497a25d4816)
