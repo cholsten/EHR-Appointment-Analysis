@@ -5,7 +5,7 @@ The manager of a multi-site ambulatory physician practice seeks to address a hig
 
 ## Steps
 
-- Generated a mock dataset using Python in Google Colab
+- Generated a synthetic dataset using Python in Google Colab
 - Integrated tables using MySQL Workbench (this could be completed using the modeling function in Power BI, but MySQL was used for demonstration purposes)
 - Created data visualizations using Power BI
 
